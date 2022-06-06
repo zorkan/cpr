@@ -1,0 +1,14 @@
+[options]
+mode prove
+
+[engines]
+smtbmc
+
+[script]
+read -formal wrapper.v cpr.v
+prep -top wrapped_cpr
+
+[files]
+wrapper.v
+properties.v
+cpr/src/cpr.v
