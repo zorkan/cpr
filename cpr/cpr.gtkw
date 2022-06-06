@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Mon Jun  6 13:09:49 2022
+[*]
+[dumpfile] "/home/zerotoasic/asic_tools/caravel_user_project/verilog/rtl/wrapped_cpr/cpr/cpr.vcd"
+[dumpfile_mtime] "Mon Jun  6 13:09:39 2022"
+[dumpfile_size] 1056976
+[savefile] "/home/zerotoasic/asic_tools/caravel_user_project/verilog/rtl/wrapped_cpr/cpr/cpr.gtkw"
+[timestart] 0
+[size] 1848 901
+[pos] -1 -1
+*-16.200001 272800 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 245
+@28
+cpr.breath_out
+cpr.compress_out
+cpr.pulse_out
+cpr.rst
+cpr.start
+cpr.sync
+[pattern_trace] 1
+[pattern_trace] 0

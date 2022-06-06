@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1654520976" />
+    <testcase name="test_all" classname="test.test_cpr" file="/home/zerotoasic/asic_tools/caravel_user_project/verilog/rtl/wrapped_cpr/cpr/test/test_cpr.py" lineno="15" time="3.0269393920898438" sim_time_ns="305141.0" ratio_time="100808.4274159603" />
+  </testsuite>
+</testsuites>
